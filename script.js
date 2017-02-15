@@ -1,1 +1,1 @@
-this is scripty
+this is script
